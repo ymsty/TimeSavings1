@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet var label:UILabel!
-    var second:Int = 0
+    var second:Int=0
     var minute:Int=0
     var hour:Int=0
     var timer:NSTimer = NSTimer()

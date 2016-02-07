@@ -19,7 +19,6 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         label2.text = "\(hour)時間\(minute)分完了"
         // Do any additional setup after loading the view.
     }

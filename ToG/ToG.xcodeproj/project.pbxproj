@@ -8,10 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9D0332F41C549A1D0086721F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D0332F31C549A1D0086721F /* Main.storyboard */; };
-		9D0332F61C54B1190086721F /* label.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D0332F51C54B1190086721F /* label.png */; };
 		9D0332FD1C54BD170086721F /* 名称未設定-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D0332FB1C54BD170086721F /* 名称未設定-11.png */; };
-		9D0332FE1C54BD170086721F /* 名称未設定-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D0332FC1C54BD170086721F /* 名称未設定-12.png */; };
-		9D9792FA1C66E9C3008B35DE /* 名称未設定-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9792F91C66E9C3008B35DE /* 名称未設定-1.png */; };
 		9D9900231C26611900202171 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9900221C26611900202171 /* AppDelegate.swift */; };
 		9D9900251C26611900202171 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9900241C26611900202171 /* ViewController.swift */; };
 		9D99002A1C26611900202171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D9900291C26611900202171 /* Assets.xcassets */; };
@@ -22,6 +19,13 @@
 		9DB754E81C41FDE400A701BF /* SanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB754E71C41FDE400A701BF /* SanViewController.swift */; };
 		9DB755241C42219500A701BF /* YonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB755231C42219500A701BF /* YonViewController.swift */; };
 		9DB7552A1C4246A600A701BF /* FiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB755291C4246A600A701BF /* FiveViewController.swift */; };
+		9DE54FE21C6720CE007D14F1 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FE11C6720CE007D14F1 /* 1.png */; };
+		9DE54FEA1C67266E007D14F1 /* hw２.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FE91C67266E007D14F1 /* hw２.png */; };
+		9DE54FEC1C672B4C007D14F1 /* BACK.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FEB1C672B4C007D14F1 /* BACK.png */; };
+		9DE54FEE1C672D5F007D14F1 /* START.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FED1C672D5F007D14F1 /* START.png */; };
+		9DE54FF01C672E20007D14F1 /* STOP.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FEF1C672E20007D14F1 /* STOP.png */; };
+		9DE54FF21C67313B007D14F1 /* HOZON.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FF11C67313B007D14F1 /* HOZON.png */; };
+		9DE54FF61C6735C3007D14F1 /* dasu.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FF51C6735C3007D14F1 /* dasu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,10 +47,7 @@
 
 /* Begin PBXFileReference section */
 		9D0332F31C549A1D0086721F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		9D0332F51C54B1190086721F /* label.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = label.png; sourceTree = "<group>"; };
 		9D0332FB1C54BD170086721F /* 名称未設定-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名称未設定-11.png"; sourceTree = "<group>"; };
-		9D0332FC1C54BD170086721F /* 名称未設定-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名称未設定-12.png"; sourceTree = "<group>"; };
-		9D9792F91C66E9C3008B35DE /* 名称未設定-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "名称未設定-1.png"; sourceTree = "<group>"; };
 		9D99001F1C26611900202171 /* ToG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D9900221C26611900202171 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D9900241C26611900202171 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +64,13 @@
 		9DB754E71C41FDE400A701BF /* SanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SanViewController.swift; sourceTree = "<group>"; };
 		9DB755231C42219500A701BF /* YonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YonViewController.swift; sourceTree = "<group>"; };
 		9DB755291C4246A600A701BF /* FiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FiveViewController.swift; sourceTree = "<group>"; };
+		9DE54FE11C6720CE007D14F1 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		9DE54FE91C67266E007D14F1 /* hw２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hw２.png"; sourceTree = "<group>"; };
+		9DE54FEB1C672B4C007D14F1 /* BACK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BACK.png; sourceTree = "<group>"; };
+		9DE54FED1C672D5F007D14F1 /* START.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = START.png; sourceTree = "<group>"; };
+		9DE54FEF1C672E20007D14F1 /* STOP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = STOP.png; sourceTree = "<group>"; };
+		9DE54FF11C67313B007D14F1 /* HOZON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HOZON.png; sourceTree = "<group>"; };
+		9DE54FF51C6735C3007D14F1 /* dasu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dasu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,10 +127,14 @@
 				9DB754E71C41FDE400A701BF /* SanViewController.swift */,
 				9DB755231C42219500A701BF /* YonViewController.swift */,
 				9DB755291C4246A600A701BF /* FiveViewController.swift */,
-				9D0332F51C54B1190086721F /* label.png */,
 				9D0332FB1C54BD170086721F /* 名称未設定-11.png */,
-				9D0332FC1C54BD170086721F /* 名称未設定-12.png */,
-				9D9792F91C66E9C3008B35DE /* 名称未設定-1.png */,
+				9DE54FE11C6720CE007D14F1 /* 1.png */,
+				9DE54FF11C67313B007D14F1 /* HOZON.png */,
+				9DE54FE91C67266E007D14F1 /* hw２.png */,
+				9DE54FEB1C672B4C007D14F1 /* BACK.png */,
+				9DE54FF51C6735C3007D14F1 /* dasu.png */,
+				9DE54FED1C672D5F007D14F1 /* START.png */,
+				9DE54FEF1C672E20007D14F1 /* STOP.png */,
 				9D0332F31C549A1D0086721F /* Main.storyboard */,
 				9D9900291C26611900202171 /* Assets.xcassets */,
 				9D99002B1C26611900202171 /* LaunchScreen.storyboard */,
@@ -253,13 +265,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DE54FF01C672E20007D14F1 /* STOP.png in Resources */,
 				9D0332FD1C54BD170086721F /* 名称未設定-11.png in Resources */,
-				9D9792FA1C66E9C3008B35DE /* 名称未設定-1.png in Resources */,
-				9D0332F61C54B1190086721F /* label.png in Resources */,
+				9DE54FF61C6735C3007D14F1 /* dasu.png in Resources */,
+				9DE54FE21C6720CE007D14F1 /* 1.png in Resources */,
+				9DE54FEE1C672D5F007D14F1 /* START.png in Resources */,
 				9D99002D1C26611900202171 /* LaunchScreen.storyboard in Resources */,
-				9D0332FE1C54BD170086721F /* 名称未設定-12.png in Resources */,
+				9DE54FEC1C672B4C007D14F1 /* BACK.png in Resources */,
+				9DE54FF21C67313B007D14F1 /* HOZON.png in Resources */,
 				9D99002A1C26611900202171 /* Assets.xcassets in Resources */,
 				9D0332F41C549A1D0086721F /* Main.storyboard in Resources */,
+				9DE54FEA1C67266E007D14F1 /* hw２.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
