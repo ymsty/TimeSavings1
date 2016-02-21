@@ -19,6 +19,8 @@
 		9DB754E81C41FDE400A701BF /* SanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB754E71C41FDE400A701BF /* SanViewController.swift */; };
 		9DB755241C42219500A701BF /* YonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB755231C42219500A701BF /* YonViewController.swift */; };
 		9DB7552A1C4246A600A701BF /* FiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB755291C4246A600A701BF /* FiveViewController.swift */; };
+		9DBCC78D1C797AE30058493D /* ok.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DBCC78C1C797AE30058493D /* ok.png */; };
+		9DBCC78F1C7986D70058493D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DBCC78E1C7986D70058493D /* icon.png */; };
 		9DE54FE21C6720CE007D14F1 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FE11C6720CE007D14F1 /* 1.png */; };
 		9DE54FEA1C67266E007D14F1 /* hw２.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FE91C67266E007D14F1 /* hw２.png */; };
 		9DE54FEC1C672B4C007D14F1 /* BACK.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE54FEB1C672B4C007D14F1 /* BACK.png */; };
@@ -64,6 +66,8 @@
 		9DB754E71C41FDE400A701BF /* SanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SanViewController.swift; sourceTree = "<group>"; };
 		9DB755231C42219500A701BF /* YonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YonViewController.swift; sourceTree = "<group>"; };
 		9DB755291C4246A600A701BF /* FiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FiveViewController.swift; sourceTree = "<group>"; };
+		9DBCC78C1C797AE30058493D /* ok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ok.png; sourceTree = "<group>"; };
+		9DBCC78E1C7986D70058493D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		9DE54FE11C6720CE007D14F1 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		9DE54FE91C67266E007D14F1 /* hw２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hw２.png"; sourceTree = "<group>"; };
 		9DE54FEB1C672B4C007D14F1 /* BACK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BACK.png; sourceTree = "<group>"; };
@@ -127,15 +131,17 @@
 				9DB754E71C41FDE400A701BF /* SanViewController.swift */,
 				9DB755231C42219500A701BF /* YonViewController.swift */,
 				9DB755291C4246A600A701BF /* FiveViewController.swift */,
+				9D0332F31C549A1D0086721F /* Main.storyboard */,
 				9D0332FB1C54BD170086721F /* 名称未設定-11.png */,
+				9DBCC78E1C7986D70058493D /* icon.png */,
 				9DE54FE11C6720CE007D14F1 /* 1.png */,
+				9DBCC78C1C797AE30058493D /* ok.png */,
 				9DE54FF11C67313B007D14F1 /* HOZON.png */,
 				9DE54FE91C67266E007D14F1 /* hw２.png */,
 				9DE54FEB1C672B4C007D14F1 /* BACK.png */,
 				9DE54FF51C6735C3007D14F1 /* dasu.png */,
 				9DE54FED1C672D5F007D14F1 /* START.png */,
 				9DE54FEF1C672E20007D14F1 /* STOP.png */,
-				9D0332F31C549A1D0086721F /* Main.storyboard */,
 				9D9900291C26611900202171 /* Assets.xcassets */,
 				9D99002B1C26611900202171 /* LaunchScreen.storyboard */,
 				9D99002E1C26611900202171 /* Info.plist */,
@@ -265,6 +271,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DBCC78F1C7986D70058493D /* icon.png in Resources */,
+				9DBCC78D1C797AE30058493D /* ok.png in Resources */,
 				9DE54FF01C672E20007D14F1 /* STOP.png in Resources */,
 				9D0332FD1C54BD170086721F /* 名称未設定-11.png in Resources */,
 				9DE54FF61C6735C3007D14F1 /* dasu.png in Resources */,

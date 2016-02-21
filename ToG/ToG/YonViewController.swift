@@ -10,6 +10,8 @@
 import UIKit
 
 class YonViewController: UIViewController {
+    @IBOutlet weak var minusButton: UIButton!
+    @IBOutlet weak var plusBottun: UIButton!
 
     var minute:Int=0
     var hour:Int=0
@@ -27,6 +29,8 @@ class YonViewController: UIViewController {
         super.viewDidLoad()
         label3.text = "\(ruikeihour)時間\(ruikeiminute)分あります"
 
+        minusButton.layer.borderWidth = 5
+        plusBottun.layer.borderWidth = 5
         // Do any additional setup after loading the view.
     }
     @IBAction func back(){
